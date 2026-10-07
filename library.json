@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "ministry": "REAP LIFE IN CHRIST MINISTRY",
+  "content": [
+    {
+      "id": "RL-0001",
+      "type": "message",
+      "status": "draft",
+      "title": "The Danger of Seeking Comfort Outside of God",
+      "topic": "Oh God, Comfort Me",
+      "speaker": "Pastor Mayowa John",
+      "primaryScripture": "Ruth 1:1-5",
+      "supportingScriptures": [
+        "Genesis 13:10-11",
+        "Genesis 19:15-17"
+      ],
+      "category": "Life Challenges / Comfort",
+      "connectedLifeMemo": "LM-0001",
+      "connectedPrayer": "PR-0001",
+      "media": {
+        "audio": null,
+        "video": null,
+        "shortVideo": null,
+        "audioUrl": "",
+        "videoUrl": "",
+        "shortVideoUrl": ""
+      }
+    },
+    {
+      "id": "LM-0001",
+      "type": "life-memo",
+      "status": "draft",
+      "title": "When Life Hurts, Let God Be Your Comfort",
+      "scripture": "Ruth 1:1-5",
+      "connectedMessage": "RL-0001",
+      "connectedPrayer": "PR-0001"
+    },
+    {
+      "id": "PR-0001",
+      "type": "prayer",
+      "status": "draft",
+      "title": "Oh God, Comfort Me",
+      "scripture": "Ruth 1:1-5",
+      "connectedMessage": "RL-0001",
+      "text": "Oh God, when life becomes painful, help me not to run away from You in search of comfort. Teach me to trust You, seek You and remain with You even when I do not understand what I am going through. Be my refuge, strengthen my heart, guide my decisions and help me find lasting comfort in You. In Jesus' name, Amen."
+    }
+  ]
+}

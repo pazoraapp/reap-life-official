@@ -1,0 +1,471 @@
+{
+  "name": "REAP LIFE Master Biblical Content Taxonomy",
+  "version": "1.0",
+  "principle": "The system organizes Scripture-centered content broadly; Life Memo is not limited to comfort or life challenges. Warnings are advisory; pastoral judgment decides reuse.",
+  "contentTypes": [
+    "Master Message",
+    "Sermon",
+    "Short Word",
+    "Bible Teaching",
+    "Gospel Message",
+    "Exhortation",
+    "Testimony",
+    "Christian Living",
+    "Discipleship",
+    "Devotional",
+    "Prayer",
+    "Life Memo"
+  ],
+  "categories": [
+    {
+      "id": "salvation-gospel",
+      "name": "Salvation & Gospel",
+      "topics": [
+        "Need for salvation",
+        "The gospel",
+        "Jesus Christ as Savior",
+        "New birth",
+        "Receiving Christ",
+        "Confession of faith",
+        "Assurance of salvation",
+        "Evangelism",
+        "Great Commission",
+        "Calling sinners to Christ"
+      ]
+    },
+    {
+      "id": "repentance-forgiveness",
+      "name": "Repentance, Forgiveness & Restoration",
+      "topics": [
+        "Repentance",
+        "Confession of sin",
+        "Forgiveness",
+        "Grace",
+        "Mercy",
+        "Backsliding",
+        "Restoration",
+        "Returning to God",
+        "Forgiving others"
+      ]
+    },
+    {
+      "id": "faith-trust",
+      "name": "Faith & Trust in God",
+      "topics": [
+        "Faith in Christ",
+        "Trusting God",
+        "Faith during trials",
+        "Walking by faith",
+        "Unbelief",
+        "Faith and obedience",
+        "God's faithfulness",
+        "Waiting on God"
+      ]
+    },
+    {
+      "id": "grace-mercy",
+      "name": "Grace & Mercy",
+      "topics": [
+        "Grace",
+        "Mercy",
+        "Favor",
+        "God's kindness",
+        "Receiving grace",
+        "Extending mercy",
+        "Grace and holy living"
+      ]
+    },
+    {
+      "id": "sin-temptation",
+      "name": "Sin, Temptation & Consequences",
+      "topics": [
+        "Nature of sin",
+        "Temptation",
+        "Overcoming temptation",
+        "Consequences of sin",
+        "Repentance",
+        "Accountability",
+        "Fleeing evil",
+        "Sin and death"
+      ]
+    },
+    {
+      "id": "holiness-sanctification",
+      "name": "Holiness & Sanctification",
+      "topics": [
+        "Holiness",
+        "Sanctification",
+        "Purity",
+        "Separation from evil",
+        "Holy conduct",
+        "Living by the Spirit",
+        "Consecration"
+      ]
+    },
+    {
+      "id": "christian-character",
+      "name": "Christian Character & Conduct",
+      "topics": [
+        "Love",
+        "Joy",
+        "Peace",
+        "Patience",
+        "Kindness",
+        "Goodness",
+        "Faithfulness",
+        "Gentleness",
+        "Self-control",
+        "Humility",
+        "Integrity",
+        "Truthfulness"
+      ]
+    },
+    {
+      "id": "obedience-fear-wisdom",
+      "name": "Obedience, Fear of God & Wisdom",
+      "topics": [
+        "Obedience",
+        "Fear of God",
+        "Wisdom",
+        "Understanding",
+        "Discernment",
+        "Godly counsel",
+        "Correction",
+        "Teachability",
+        "Decision making"
+      ]
+    },
+    {
+      "id": "jesus-christ",
+      "name": "Jesus Christ & His Teachings",
+      "topics": [
+        "Birth/incarnation",
+        "Teachings of Jesus",
+        "Commands of Jesus",
+        "Parables",
+        "Miracles",
+        "Compassion of Jesus",
+        "Cross",
+        "Resurrection",
+        "Ascension",
+        "Lordship of Christ"
+      ]
+    },
+    {
+      "id": "return-eternity",
+      "name": "Christ's Return, Judgment & Eternity",
+      "topics": [
+        "Second coming",
+        "Readiness",
+        "Rapture",
+        "Judgment",
+        "Accountability",
+        "Heaven",
+        "Eternal life",
+        "Hell",
+        "Final destiny",
+        "Hope of resurrection"
+      ]
+    },
+    {
+      "id": "holy-spirit",
+      "name": "Holy Spirit & Spiritual Life",
+      "topics": [
+        "Person of the Holy Spirit",
+        "Fruit of the Spirit",
+        "Gifts",
+        "Guidance",
+        "Power",
+        "Prayer in the Spirit",
+        "Walking by the Spirit",
+        "Spiritual growth"
+      ]
+    },
+    {
+      "id": "prayer",
+      "name": "Prayer & Communion with God",
+      "topics": [
+        "Prayer",
+        "Intercession",
+        "Worship",
+        "Thanksgiving",
+        "Fasting",
+        "Hearing God",
+        "Persistence",
+        "Prayer for others",
+        "Answered prayer"
+      ]
+    },
+    {
+      "id": "word-scripture",
+      "name": "Word of God & Scripture",
+      "topics": [
+        "Authority of Scripture",
+        "Meditation",
+        "Studying Scripture",
+        "Obeying the Word",
+        "Promises",
+        "Warnings",
+        "Commands",
+        "Biblical interpretation"
+      ]
+    },
+    {
+      "id": "prophets",
+      "name": "Prophets & Prophetic Warnings",
+      "topics": [
+        "Prophetic calls",
+        "Warnings",
+        "Repentance",
+        "Hope",
+        "Justice",
+        "God's promises",
+        "Prophetic fulfillment"
+      ]
+    },
+    {
+      "id": "apostolic",
+      "name": "Apostolic Teaching & Exhortation",
+      "topics": [
+        "Church doctrine",
+        "Christian conduct",
+        "Perseverance",
+        "Church relationships",
+        "Service",
+        "Spiritual maturity",
+        "Sound teaching"
+      ]
+    },
+    {
+      "id": "proverbs-wisdom",
+      "name": "Proverbs & Practical Wisdom",
+      "topics": [
+        "Speech",
+        "Work",
+        "Money",
+        "Friendship",
+        "Correction",
+        "Diligence",
+        "Laziness",
+        "Pride",
+        "Humility",
+        "Parents and children"
+      ]
+    },
+    {
+      "id": "ecclesiastes-purpose",
+      "name": "Ecclesiastes: Time, Mortality & Purpose",
+      "topics": [
+        "Youth",
+        "Time",
+        "Mortality",
+        "Meaning",
+        "Work",
+        "Enjoying God's gifts",
+        "Fear of God",
+        "Life's seasons"
+      ]
+    },
+    {
+      "id": "youth-children",
+      "name": "Children, Teens & Youth",
+      "topics": [
+        "Remembering the Creator",
+        "Peer pressure",
+        "Purity",
+        "Identity",
+        "Education",
+        "Friendship",
+        "Calling",
+        "Discipline",
+        "Youth leadership"
+      ]
+    },
+    {
+      "id": "men",
+      "name": "Men",
+      "topics": [
+        "Godly manhood",
+        "Leadership",
+        "Responsibility",
+        "Fatherhood",
+        "Integrity",
+        "Work",
+        "Spiritual discipline",
+        "Marriage"
+      ]
+    },
+    {
+      "id": "women",
+      "name": "Women",
+      "topics": [
+        "Godly womanhood",
+        "Wisdom",
+        "Courage",
+        "Service",
+        "Family",
+        "Work",
+        "Integrity",
+        "Spiritual growth"
+      ]
+    },
+    {
+      "id": "marriage-family",
+      "name": "Marriage, Family & Relationships",
+      "topics": [
+        "Marriage",
+        "Husband and wife",
+        "Parenting",
+        "Children",
+        "Family conflict",
+        "Communication",
+        "Friendship",
+        "Boundaries",
+        "Love",
+        "Reconciliation"
+      ]
+    },
+    {
+      "id": "work-calling",
+      "name": "Work, Calling & Diligence",
+      "topics": [
+        "Diligence",
+        "Laziness",
+        "Excellence",
+        "Calling",
+        "Skill",
+        "Responsibility",
+        "Leadership at work",
+        "Work ethic",
+        "Rest"
+      ]
+    },
+    {
+      "id": "money-stewardship",
+      "name": "Money, Possessions & Stewardship",
+      "topics": [
+        "Stewardship",
+        "Giving",
+        "Generosity",
+        "Debt",
+        "Contentment",
+        "Provision",
+        "Honest gain",
+        "Greed",
+        "Financial responsibility"
+      ]
+    },
+    {
+      "id": "trials-endurance",
+      "name": "Trials, Suffering & Perseverance",
+      "topics": [
+        "Trials",
+        "Suffering",
+        "Endurance",
+        "Patience",
+        "Hope",
+        "Comfort from God",
+        "Testing",
+        "Waiting",
+        "Overcoming discouragement"
+      ]
+    },
+    {
+      "id": "deliverance",
+      "name": "Deliverance, Freedom & Victory",
+      "topics": [
+        "Freedom from sin",
+        "Deliverance",
+        "Victory",
+        "Spiritual warfare",
+        "Strongholds",
+        "Fear",
+        "Bondage",
+        "God's protection"
+      ]
+    },
+    {
+      "id": "justice-mercy",
+      "name": "Justice, Mercy & Righteousness",
+      "topics": [
+        "Justice",
+        "Righteousness",
+        "Mercy",
+        "Oppression",
+        "Fairness",
+        "Defending the vulnerable",
+        "Honest judgment"
+      ]
+    },
+    {
+      "id": "service-leadership",
+      "name": "Service, Leadership & Church Life",
+      "topics": [
+        "Servanthood",
+        "Pastoral leadership",
+        "Ministry gifts",
+        "Church unity",
+        "Accountability",
+        "Discipleship",
+        "Training leaders",
+        "Church culture"
+      ]
+    },
+    {
+      "id": "witness-mission",
+      "name": "Witness, Missions & Evangelism",
+      "topics": [
+        "Sharing Christ",
+        "Personal witness",
+        "Missions",
+        "Compassion",
+        "Discipling nations",
+        "Boldness",
+        "Gospel outreach"
+      ]
+    },
+    {
+      "id": "life-decisions",
+      "name": "Life Decisions & Everyday Challenges",
+      "topics": [
+        "Comfort",
+        "Loneliness",
+        "Fear",
+        "Anxiety",
+        "Relationships",
+        "Decision making",
+        "Change",
+        "Failure",
+        "Success",
+        "Hope"
+      ]
+    },
+    {
+      "id": "gratitude-worship",
+      "name": "Worship, Praise & Thanksgiving",
+      "topics": [
+        "Praise",
+        "Thanksgiving",
+        "Adoration",
+        "Reverence",
+        "Joy",
+        "Testimony",
+        "Remembering God's works"
+      ]
+    },
+    {
+      "id": "church-growth",
+      "name": "Church Growth, Culture & Enrichment",
+      "topics": [
+        "Healthy church culture",
+        "Discipleship systems",
+        "Small groups",
+        "Welcoming people",
+        "Spiritual maturity",
+        "Unity",
+        "Mission",
+        "Church growth"
+      ]
+    }
+  ]
+}
